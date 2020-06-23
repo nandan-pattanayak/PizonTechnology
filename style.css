@@ -70,7 +70,7 @@ html{
 }
 .navbar-nav li a:hover{
 	font-size: 20px;
-	color:#e034c6!important;
+	color:red!important;
 }
 
 /******************carousal**********************/
