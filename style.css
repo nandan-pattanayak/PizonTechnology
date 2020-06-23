@@ -131,7 +131,12 @@ html{
 	overflow-y: hidden;
 	overflow-x: hidden;
 	/*margin-top: 10px;*/
-	background-color: #343deb;
+	/*background-color: #343deb;*/
+	/*background-image: url('images/bigdata2.jpg');*/
+		background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url('images/about-bgimg.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
 	color: black;
 	
 }
@@ -578,7 +583,7 @@ font-size: 12px;
 /***************lastdiv**************/
 .lastdiv{
 	width: 100%;
-	height: 140px;
+	height: 110px;
 	background-color: #0d0b0b;
 }
 
